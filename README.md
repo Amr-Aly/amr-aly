@@ -7,7 +7,7 @@ I'm a back-end / site reliability engineer who is interested in Go and Infrastru
 I'm interested in Go, Kubernetes, AWS. 
 
 ### Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/amr-ali/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/amr-ali/)
 
 
 <br>
